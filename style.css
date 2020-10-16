@@ -1,0 +1,39 @@
+h1{
+	text-align: center;
+}
+.wrapper{
+	height:1000px;
+	width:100%;
+}
+.block1{
+	height:1000px;
+	width:200px;
+	float:left;
+	display: inline-block;
+}
+.block2{
+	display: inline-block;
+	width:800px;
+}
+.btn{
+	display: block;
+	background-color: yellow;
+	border: solid 2px green;
+	margin: 7px;
+	padding: 3px;
+	text-align: center;
+	text-decoration: none;
+}
+.btn_highlighted{
+	display: block;
+	background-color: orange;
+	border: solid 2px green;
+	margin: 7px;
+	padding: 3px;
+	text-align: center;
+	text-decoration: none;
+}
+.footer{
+	border: solid 2px red;
+	padding: 3px;
+}
